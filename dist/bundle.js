@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack://assignment-2-authentication-and-real-time-canachos/./src/index.js?");
+eval("console.log('index.js')\n\n//# sourceURL=webpack://assignment-2-authentication-and-real-time-canachos/./src/index.js?");
 
 /***/ })
 
